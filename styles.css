@@ -1,0 +1,48 @@
+body{
+    font-family: Arial;
+    transition: 0.3s;
+    padding: 50px;
+    text-align: center;
+    background-color: azure;
+}
+.dark-btn{
+    background-color: rgb(77, 77, 77);
+    color: azure;
+}
+.light-btn{
+     background-color: rgb(231, 231, 231);
+    color: rgb(0, 0, 0);
+}
+
+.dark {
+    background: #1a1a2e;
+    color: white;
+        }
+.light{
+    background: azure;
+    color: rgb(77, 77, 77)
+}
+button{
+    margin: 3px;
+    border-radius: 30px ;
+    padding: 10px 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0.7);
+    transition: 0.3s;
+}
+button:hover{
+    transform: translateY(-10px);
+}
+.container{
+    margin: auto;
+    border-radius: 30px ;
+    padding: 10px 10px;
+    width: 200px ;
+    height: 50px ;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+image{
+height: 20;
+}
+   
